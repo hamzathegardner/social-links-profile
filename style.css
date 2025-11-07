@@ -183,6 +183,12 @@ a,
 a:visited {
   color: #ffffff;
   text-decoration: none;
+  border-radius: 8px;
+}
+a:hover,
+a:focus {
+  color: var(--grey-light);
+  background-color: var(--green);
 }
 
 li {
