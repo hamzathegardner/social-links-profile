@@ -99,7 +99,7 @@ html {
 
 main {
   height: 100%;
-  margin-top: -14px;
+  margin-top: -10px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
